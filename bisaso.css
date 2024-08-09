@@ -1,0 +1,48 @@
+body{background:linear-gradient(to left, skyblue,seagreen); margin-top: 0px;margin-left: 0px;}
+.vanesa-jpg{width:50%;height: 200px;margin-left:70px;box-shadow: 4px 5px 7px blue;}
+h1{color:siennagray;text-shadow:3px 5px 2px tomato;}
+h3{color:lightgray;text-shadow:3px 5px 1px dimgray;font-family: helvetica;}
+
+table{border:4px solid gray; background-color:skyblue;
+  
+}
+a:active{ 
+ 
+ 
+ 
+}
+
+ol img{ 
+  width:32px;
+  margin-top:-px;
+}
+
+
+.nav{
+  background-color:pink;
+  position:fixed;
+  margin-top:0px;
+  margin-left:0px;
+  margin-right:0px;
+  
+}
+ol{display:flex;
+ justify-content:space-evenly;
+ width:316px;height: 10px;
+ align-items: center;
+
+}
+li a{ color:black; padding: 0px;box-shadow: 1px 3px 4px gray;
+  
+  height:40px;
+  
+}
+
+footer{background-color:black; color:white;text-align: center;}
+
+
+
+
+
+
+
